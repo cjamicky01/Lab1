@@ -1,8 +1,8 @@
-D:/Files/Manhattan\ College/Senior/Embedded/BLE\ Lab\ 1/BLE\ Lab\ 1/BLE\ Lab\ 1.cydsn/CortexM0/ARM_GCC_484/Debug/CyBootAsmGnu.o : D:/Files/Manhattan\ College/Senior/Embedded/BLE\ Lab\ 1/BLE\ Lab\ 1/BLE\ Lab\ 1.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc D:/Files/Manhattan\ College/Senior/Embedded/BLE\ Lab\ 1/BLE\ Lab\ 1/BLE\ Lab\ 1.cydsn/Generated_Source/PSoC4/cyfittergnu.inc D:/Files/Manhattan\ College/Senior/Embedded/BLE\ Lab\ 1/BLE\ Lab\ 1/BLE\ Lab\ 1.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s 
+C:/Users/Admin/Desktop/GitHub/Lab1/BLE\ Lab\ 1.cydsn/CortexM0/ARM_GCC_484/Debug/CyBootAsmGnu.o : C:/Users/Admin/Desktop/GitHub/Lab1/BLE\ Lab\ 1.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc C:/Users/Admin/Desktop/GitHub/Lab1/BLE\ Lab\ 1.cydsn/Generated_Source/PSoC4/cyfittergnu.inc C:/Users/Admin/Desktop/GitHub/Lab1/BLE\ Lab\ 1.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s 
 
-D:/Files/Manhattan\ College/Senior/Embedded/BLE\ Lab\ 1/BLE\ Lab\ 1/BLE\ Lab\ 1.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc : 
+C:/Users/Admin/Desktop/GitHub/Lab1/BLE\ Lab\ 1.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc : 
 
-D:/Files/Manhattan\ College/Senior/Embedded/BLE\ Lab\ 1/BLE\ Lab\ 1/BLE\ Lab\ 1.cydsn/Generated_Source/PSoC4/cyfittergnu.inc : 
+C:/Users/Admin/Desktop/GitHub/Lab1/BLE\ Lab\ 1.cydsn/Generated_Source/PSoC4/cyfittergnu.inc : 
 
-D:/Files/Manhattan\ College/Senior/Embedded/BLE\ Lab\ 1/BLE\ Lab\ 1/BLE\ Lab\ 1.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s : 
+C:/Users/Admin/Desktop/GitHub/Lab1/BLE\ Lab\ 1.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s : 
 

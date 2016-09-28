@@ -2,7 +2,7 @@
 --	Conversion of BLE Lab 1.v to vh2:
 --
 --	Cypress Semiconductor - WARP Version 6.3 IR 41
---	Wed Sep 28 18:24:35 2016
+--	Wed Sep 28 18:40:10 2016
 --
 
 USE cypress.cypress.all;
