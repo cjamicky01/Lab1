@@ -1,0 +1,1 @@
+C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\CortexM0\ARM_GCC_484\Debug\BLE Lab 1.a : .\CortexM0\ARM_GCC_484\Debug\cyfitter_cfg.o .\CortexM0\ARM_GCC_484\Debug\Pin_LED.o .\CortexM0\ARM_GCC_484\Debug\CyBootAsmGnu.o .\CortexM0\ARM_GCC_484\Debug\CyFlash.o .\CortexM0\ARM_GCC_484\Debug\CyLib.o .\CortexM0\ARM_GCC_484\Debug\cyPm.o .\CortexM0\ARM_GCC_484\Debug\cyutils.o
