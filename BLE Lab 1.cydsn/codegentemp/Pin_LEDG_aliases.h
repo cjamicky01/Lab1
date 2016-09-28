@@ -1,5 +1,5 @@
 /*******************************************************************************
-* File Name: Pin_LED.h  
+* File Name: Pin_LEDG.h  
 * Version 2.10
 *
 * Description:
@@ -15,8 +15,8 @@
 * the software package with which this file was provided.
 *******************************************************************************/
 
-#if !defined(CY_PINS_Pin_LED_ALIASES_H) /* Pins Pin_LED_ALIASES_H */
-#define CY_PINS_Pin_LED_ALIASES_H
+#if !defined(CY_PINS_Pin_LEDG_ALIASES_H) /* Pins Pin_LEDG_ALIASES_H */
+#define CY_PINS_Pin_LEDG_ALIASES_H
 
 #include "cytypes.h"
 #include "cyfitter.h"
@@ -26,14 +26,14 @@
 /***************************************
 *              Constants        
 ***************************************/
-#define Pin_LED_0		(Pin_LED__0__PC)
-#define Pin_LED_0_PS		(Pin_LED__0__PS)
-#define Pin_LED_0_PC		(Pin_LED__0__PC)
-#define Pin_LED_0_DR		(Pin_LED__0__DR)
-#define Pin_LED_0_SHIFT	(Pin_LED__0__SHIFT)
+#define Pin_LEDG_0		(Pin_LEDG__0__PC)
+#define Pin_LEDG_0_PS		(Pin_LEDG__0__PS)
+#define Pin_LEDG_0_PC		(Pin_LEDG__0__PC)
+#define Pin_LEDG_0_DR		(Pin_LEDG__0__DR)
+#define Pin_LEDG_0_SHIFT	(Pin_LEDG__0__SHIFT)
 
 
-#endif /* End Pins Pin_LED_ALIASES_H */
+#endif /* End Pins Pin_LEDG_ALIASES_H */
 
 
 /* [] END OF FILE */

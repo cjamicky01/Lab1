@@ -18,8 +18,12 @@
 #include <cydevice_trm.h>
 #include <cyfitter.h>
 #include <cydisabledsheets.h>
-#include <Pin_LED.h>
-#include <Pin_LED_aliases.h>
+#include <Pin_LEDR.h>
+#include <Pin_LEDR_aliases.h>
+#include <Pin_LEDB.h>
+#include <Pin_LEDB_aliases.h>
+#include <Pin_LEDG.h>
+#include <Pin_LEDG_aliases.h>
 #include <core_cm0_psoc4.h>
 #include <core_cm0.h>
 #include <CyFlash.h>

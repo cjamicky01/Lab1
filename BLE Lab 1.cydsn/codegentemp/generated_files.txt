@@ -14,9 +14,15 @@
   <file name="C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\codegentemp\cyfitteriar.inc" value="NONE;" />
   <file name="C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\codegentemp\cyfitter.h" value="NONE;" />
   <file name="C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\codegentemp\cydisabledsheets.h" value="NONE;" />
-  <file name="C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\codegentemp\Pin_LED.c" value="ARM_C_FILE;Pin_LED" />
-  <file name="C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\codegentemp\Pin_LED.h" value="NONE;Pin_LED" />
-  <file name="C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\codegentemp\Pin_LED_aliases.h" value="NONE;Pin_LED" />
+  <file name="C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\codegentemp\Pin_LEDR.c" value="ARM_C_FILE;Pin_LEDR" />
+  <file name="C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\codegentemp\Pin_LEDR.h" value="NONE;Pin_LEDR" />
+  <file name="C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\codegentemp\Pin_LEDR_aliases.h" value="NONE;Pin_LEDR" />
+  <file name="C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\codegentemp\Pin_LEDB.c" value="ARM_C_FILE;Pin_LEDB" />
+  <file name="C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\codegentemp\Pin_LEDB.h" value="NONE;Pin_LEDB" />
+  <file name="C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\codegentemp\Pin_LEDB_aliases.h" value="NONE;Pin_LEDB" />
+  <file name="C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\codegentemp\Pin_LEDG.c" value="ARM_C_FILE;Pin_LEDG" />
+  <file name="C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\codegentemp\Pin_LEDG.h" value="NONE;Pin_LEDG" />
+  <file name="C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\codegentemp\Pin_LEDG_aliases.h" value="NONE;Pin_LEDG" />
   <file name="C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\codegentemp\cm0gcc.ld" value="NONE;cy_boot" />
   <file name="C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\codegentemp\Cm0RealView.scat" value="NONE;cy_boot" />
   <file name="C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\codegentemp\Cm0Start.c" value="ARM_C_FILE;cy_boot" />
