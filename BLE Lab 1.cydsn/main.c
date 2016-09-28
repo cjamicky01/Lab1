@@ -18,9 +18,7 @@ int main()
     /* CyGlobalIntEnable; */ /* Uncomment this line to enable global interrupts. */
     for(;;)
     {
-        Pin_LEDG_Write(~Pin_LEDG_Read());
-        Pin_LEDB_Write(~Pin_LEDB_Read());
-        Pin_LEDR_Write(~Pin_LEDR_Read());
+      PWM_1_Start();
         /* Place your application code here. */
     }
 }
