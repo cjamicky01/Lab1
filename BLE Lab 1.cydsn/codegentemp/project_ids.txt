@@ -1,5 +1,5 @@
-C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\BLE Lab 1.cyprj|d3dd067b-eabc-4e8f-a112-72aa1d362339
-C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|6a3c55cb-e2a1-4bb5-be6a-75d1d8b987a4
-C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|2e40c2b7-809e-49e5-ad38-9039e8b62a68
-C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|e5a09446-fc74-4786-90aa-a305210ec783
-C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|b7a4a7bf-1523-4dba-8fd1-73689bd3f758
+C:\Users\Admin\Desktop\GitHub\Lab1\BLE Lab 1.cydsn\BLE Lab 1.cyprj|ebd73199-ce32-4d28-a3ad-4a8178853627
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|930c9716-5970-415e-9b94-a6054642a090
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|4f496094-fd6a-49a2-887f-28f2f6cb7899
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|504df13c-dbf7-4d37-b624-f8544ba6925c
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|33bea4f5-7231-42af-a2e8-ce4bc49922b0

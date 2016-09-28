@@ -3465,69 +3465,69 @@ ARM GAS  .\Generated_Source\PSoC4\CyBootAsmGnu.s 			page 1
  3270              	.set CYDEV_FLS_ROW_SIZE, 0x00000080
    4              	
    5              	/* Pin_LED */
-   6              	.set Pin_LED__0__DR, CYREG_GPIO_PRT3_DR
-   7              	.set Pin_LED__0__DR_CLR, CYREG_GPIO_PRT3_DR_CLR
-   8              	.set Pin_LED__0__DR_INV, CYREG_GPIO_PRT3_DR_INV
-   9              	.set Pin_LED__0__DR_SET, CYREG_GPIO_PRT3_DR_SET
-  10              	.set Pin_LED__0__HSIOM, CYREG_HSIOM_PORT_SEL3
+   6              	.set Pin_LED__0__DR, CYREG_GPIO_PRT2_DR
+   7              	.set Pin_LED__0__DR_CLR, CYREG_GPIO_PRT2_DR_CLR
+   8              	.set Pin_LED__0__DR_INV, CYREG_GPIO_PRT2_DR_INV
+   9              	.set Pin_LED__0__DR_SET, CYREG_GPIO_PRT2_DR_SET
+  10              	.set Pin_LED__0__HSIOM, CYREG_HSIOM_PORT_SEL2
   11              	.set Pin_LED__0__HSIOM_MASK, 0x0F000000
   12              	.set Pin_LED__0__HSIOM_SHIFT, 24
-  13              	.set Pin_LED__0__INTCFG, CYREG_GPIO_PRT3_INTR_CFG
-  14              	.set Pin_LED__0__INTR, CYREG_GPIO_PRT3_INTR
-  15              	.set Pin_LED__0__INTR_CFG, CYREG_GPIO_PRT3_INTR_CFG
-  16              	.set Pin_LED__0__INTSTAT, CYREG_GPIO_PRT3_INTR
+  13              	.set Pin_LED__0__INTCFG, CYREG_GPIO_PRT2_INTR_CFG
+  14              	.set Pin_LED__0__INTR, CYREG_GPIO_PRT2_INTR
+  15              	.set Pin_LED__0__INTR_CFG, CYREG_GPIO_PRT2_INTR_CFG
+  16              	.set Pin_LED__0__INTSTAT, CYREG_GPIO_PRT2_INTR
   17              	.set Pin_LED__0__MASK, 0x40
-  18              	.set Pin_LED__0__PA__CFG0, CYREG_UDB_PA3_CFG0
+  18              	.set Pin_LED__0__PA__CFG0, CYREG_UDB_PA2_CFG0
 ARM GAS  .\Generated_Source\PSoC4\CyBootAsmGnu.s 			page 59
 
 
-  19              	.set Pin_LED__0__PA__CFG1, CYREG_UDB_PA3_CFG1
-  20              	.set Pin_LED__0__PA__CFG10, CYREG_UDB_PA3_CFG10
-  21              	.set Pin_LED__0__PA__CFG11, CYREG_UDB_PA3_CFG11
-  22              	.set Pin_LED__0__PA__CFG12, CYREG_UDB_PA3_CFG12
-  23              	.set Pin_LED__0__PA__CFG13, CYREG_UDB_PA3_CFG13
-  24              	.set Pin_LED__0__PA__CFG14, CYREG_UDB_PA3_CFG14
-  25              	.set Pin_LED__0__PA__CFG2, CYREG_UDB_PA3_CFG2
-  26              	.set Pin_LED__0__PA__CFG3, CYREG_UDB_PA3_CFG3
-  27              	.set Pin_LED__0__PA__CFG4, CYREG_UDB_PA3_CFG4
-  28              	.set Pin_LED__0__PA__CFG5, CYREG_UDB_PA3_CFG5
-  29              	.set Pin_LED__0__PA__CFG6, CYREG_UDB_PA3_CFG6
-  30              	.set Pin_LED__0__PA__CFG7, CYREG_UDB_PA3_CFG7
-  31              	.set Pin_LED__0__PA__CFG8, CYREG_UDB_PA3_CFG8
-  32              	.set Pin_LED__0__PA__CFG9, CYREG_UDB_PA3_CFG9
-  33              	.set Pin_LED__0__PC, CYREG_GPIO_PRT3_PC
-  34              	.set Pin_LED__0__PC2, CYREG_GPIO_PRT3_PC2
-  35              	.set Pin_LED__0__PORT, 3
-  36              	.set Pin_LED__0__PS, CYREG_GPIO_PRT3_PS
+  19              	.set Pin_LED__0__PA__CFG1, CYREG_UDB_PA2_CFG1
+  20              	.set Pin_LED__0__PA__CFG10, CYREG_UDB_PA2_CFG10
+  21              	.set Pin_LED__0__PA__CFG11, CYREG_UDB_PA2_CFG11
+  22              	.set Pin_LED__0__PA__CFG12, CYREG_UDB_PA2_CFG12
+  23              	.set Pin_LED__0__PA__CFG13, CYREG_UDB_PA2_CFG13
+  24              	.set Pin_LED__0__PA__CFG14, CYREG_UDB_PA2_CFG14
+  25              	.set Pin_LED__0__PA__CFG2, CYREG_UDB_PA2_CFG2
+  26              	.set Pin_LED__0__PA__CFG3, CYREG_UDB_PA2_CFG3
+  27              	.set Pin_LED__0__PA__CFG4, CYREG_UDB_PA2_CFG4
+  28              	.set Pin_LED__0__PA__CFG5, CYREG_UDB_PA2_CFG5
+  29              	.set Pin_LED__0__PA__CFG6, CYREG_UDB_PA2_CFG6
+  30              	.set Pin_LED__0__PA__CFG7, CYREG_UDB_PA2_CFG7
+  31              	.set Pin_LED__0__PA__CFG8, CYREG_UDB_PA2_CFG8
+  32              	.set Pin_LED__0__PA__CFG9, CYREG_UDB_PA2_CFG9
+  33              	.set Pin_LED__0__PC, CYREG_GPIO_PRT2_PC
+  34              	.set Pin_LED__0__PC2, CYREG_GPIO_PRT2_PC2
+  35              	.set Pin_LED__0__PORT, 2
+  36              	.set Pin_LED__0__PS, CYREG_GPIO_PRT2_PS
   37              	.set Pin_LED__0__SHIFT, 6
-  38              	.set Pin_LED__DR, CYREG_GPIO_PRT3_DR
-  39              	.set Pin_LED__DR_CLR, CYREG_GPIO_PRT3_DR_CLR
-  40              	.set Pin_LED__DR_INV, CYREG_GPIO_PRT3_DR_INV
-  41              	.set Pin_LED__DR_SET, CYREG_GPIO_PRT3_DR_SET
-  42              	.set Pin_LED__INTCFG, CYREG_GPIO_PRT3_INTR_CFG
-  43              	.set Pin_LED__INTR, CYREG_GPIO_PRT3_INTR
-  44              	.set Pin_LED__INTR_CFG, CYREG_GPIO_PRT3_INTR_CFG
-  45              	.set Pin_LED__INTSTAT, CYREG_GPIO_PRT3_INTR
+  38              	.set Pin_LED__DR, CYREG_GPIO_PRT2_DR
+  39              	.set Pin_LED__DR_CLR, CYREG_GPIO_PRT2_DR_CLR
+  40              	.set Pin_LED__DR_INV, CYREG_GPIO_PRT2_DR_INV
+  41              	.set Pin_LED__DR_SET, CYREG_GPIO_PRT2_DR_SET
+  42              	.set Pin_LED__INTCFG, CYREG_GPIO_PRT2_INTR_CFG
+  43              	.set Pin_LED__INTR, CYREG_GPIO_PRT2_INTR
+  44              	.set Pin_LED__INTR_CFG, CYREG_GPIO_PRT2_INTR_CFG
+  45              	.set Pin_LED__INTSTAT, CYREG_GPIO_PRT2_INTR
   46              	.set Pin_LED__MASK, 0x40
-  47              	.set Pin_LED__PA__CFG0, CYREG_UDB_PA3_CFG0
-  48              	.set Pin_LED__PA__CFG1, CYREG_UDB_PA3_CFG1
-  49              	.set Pin_LED__PA__CFG10, CYREG_UDB_PA3_CFG10
-  50              	.set Pin_LED__PA__CFG11, CYREG_UDB_PA3_CFG11
-  51              	.set Pin_LED__PA__CFG12, CYREG_UDB_PA3_CFG12
-  52              	.set Pin_LED__PA__CFG13, CYREG_UDB_PA3_CFG13
-  53              	.set Pin_LED__PA__CFG14, CYREG_UDB_PA3_CFG14
-  54              	.set Pin_LED__PA__CFG2, CYREG_UDB_PA3_CFG2
-  55              	.set Pin_LED__PA__CFG3, CYREG_UDB_PA3_CFG3
-  56              	.set Pin_LED__PA__CFG4, CYREG_UDB_PA3_CFG4
-  57              	.set Pin_LED__PA__CFG5, CYREG_UDB_PA3_CFG5
-  58              	.set Pin_LED__PA__CFG6, CYREG_UDB_PA3_CFG6
-  59              	.set Pin_LED__PA__CFG7, CYREG_UDB_PA3_CFG7
-  60              	.set Pin_LED__PA__CFG8, CYREG_UDB_PA3_CFG8
-  61              	.set Pin_LED__PA__CFG9, CYREG_UDB_PA3_CFG9
-  62              	.set Pin_LED__PC, CYREG_GPIO_PRT3_PC
-  63              	.set Pin_LED__PC2, CYREG_GPIO_PRT3_PC2
-  64              	.set Pin_LED__PORT, 3
-  65              	.set Pin_LED__PS, CYREG_GPIO_PRT3_PS
+  47              	.set Pin_LED__PA__CFG0, CYREG_UDB_PA2_CFG0
+  48              	.set Pin_LED__PA__CFG1, CYREG_UDB_PA2_CFG1
+  49              	.set Pin_LED__PA__CFG10, CYREG_UDB_PA2_CFG10
+  50              	.set Pin_LED__PA__CFG11, CYREG_UDB_PA2_CFG11
+  51              	.set Pin_LED__PA__CFG12, CYREG_UDB_PA2_CFG12
+  52              	.set Pin_LED__PA__CFG13, CYREG_UDB_PA2_CFG13
+  53              	.set Pin_LED__PA__CFG14, CYREG_UDB_PA2_CFG14
+  54              	.set Pin_LED__PA__CFG2, CYREG_UDB_PA2_CFG2
+  55              	.set Pin_LED__PA__CFG3, CYREG_UDB_PA2_CFG3
+  56              	.set Pin_LED__PA__CFG4, CYREG_UDB_PA2_CFG4
+  57              	.set Pin_LED__PA__CFG5, CYREG_UDB_PA2_CFG5
+  58              	.set Pin_LED__PA__CFG6, CYREG_UDB_PA2_CFG6
+  59              	.set Pin_LED__PA__CFG7, CYREG_UDB_PA2_CFG7
+  60              	.set Pin_LED__PA__CFG8, CYREG_UDB_PA2_CFG8
+  61              	.set Pin_LED__PA__CFG9, CYREG_UDB_PA2_CFG9
+  62              	.set Pin_LED__PC, CYREG_GPIO_PRT2_PC
+  63              	.set Pin_LED__PC2, CYREG_GPIO_PRT2_PC2
+  64              	.set Pin_LED__PORT, 2
+  65              	.set Pin_LED__PS, CYREG_GPIO_PRT2_PS
   66              	.set Pin_LED__SHIFT, 6
   67              	
   68              	/* Miscellaneous */
